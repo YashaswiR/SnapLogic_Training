@@ -206,7 +206,7 @@
                         "value": false
                     },
                     "passThrough": {
-                        "value": false
+                        "value": true
                     },
                     "transformations": {
                         "value": {
